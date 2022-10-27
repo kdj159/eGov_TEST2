@@ -54,6 +54,10 @@
         }
         
         //-->
+        function aaa()
+        {
+        	alert('asdf');
+        }
     </script>
 </head>
 
